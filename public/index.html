@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Agentic AI Demo</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+ 
+
+<!-- Chat toggle button -->
+<button id="chatToggle">Chat with your Concierge</button>
+
+<!-- Chat container that slides in -->
+<div id="chatContainer">
+  <div id="chatLog"></div>
+  <div class="input-container">
+    <form id="chatForm">
+      <input type="text" id="chatInput" placeholder="Type a message…" autocomplete="off" />
+    </form>
+  </div>
+</div>
+
+<!-- Framed website -->
+<iframe id="framedSite" src="" frameborder="0"></iframe>
+
+<script>
+  // Get ?url=... from the query string
+  const params = new URLSearchParams(window.location.search);
+  const siteURL = params.get('url');
+
+  const iframe = document.getElementById('framedSite');
+
+  if (siteURL) {
+    iframe.src = siteURL;
+  } else {
+    iframe.src = 'blank.htm'; // Fallback if no ?url provided
+  }
+</script>
+
+  <script type="module" src="./app.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,402 @@
+[
+  {
+    "id": "1",
+    "name": "Linen Shirt",
+    "price": 70.46,
+    "style": "Urban",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "2",
+    "name": "Denim Jacket",
+    "price": 73.28,
+    "style": "Urban",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "3",
+    "name": "Chino Pants",
+    "price": 38.0,
+    "style": "Sporty",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "4",
+    "name": "Polo Shirt",
+    "price": 74.09,
+    "style": "Classic",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "5",
+    "name": "V-Neck Tee",
+    "price": 91.81,
+    "style": "Formal",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "6",
+    "name": "Bomber Jacket",
+    "price": 50.66,
+    "style": "Sporty",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "7",
+    "name": "Slim Fit Jeans",
+    "price": 125.65,
+    "style": "Urban",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "8",
+    "name": "Trench Coat",
+    "price": 20.72,
+    "style": "Formal",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "9",
+    "name": "Cotton Hoodie",
+    "price": 76.35,
+    "style": "Formal",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "10",
+    "name": "Leather Belt",
+    "price": 123.1,
+    "style": "Classic",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "11",
+    "name": "Wool Blazer",
+    "price": 84.61,
+    "style": "Smart Casual",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "12",
+    "name": "Graphic Tee",
+    "price": 57.3,
+    "style": "Relaxed",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "13",
+    "name": "Track Pants",
+    "price": 21.79,
+    "style": "Casual",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "14",
+    "name": "Corduroy Jacket",
+    "price": 21.46,
+    "style": "Streetwear",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "15",
+    "name": "Suit Trousers",
+    "price": 125.8,
+    "style": "Casual",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "16",
+    "name": "Henley Shirt",
+    "price": 62.04,
+    "style": "Smart Casual",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "17",
+    "name": "Cargo Shorts",
+    "price": 34.04,
+    "style": "Sporty",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "18",
+    "name": "Button Down Shirt",
+    "price": 49.14,
+    "style": "Classic",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "19",
+    "name": "Windbreaker",
+    "price": 89.12,
+    "style": "Urban",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "20",
+    "name": "Oversized Hoodie",
+    "price": 94.24,
+    "style": "Sporty",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "21",
+    "name": "Fleece Sweatshirt",
+    "price": 68.6,
+    "style": "Streetwear",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "22",
+    "name": "Peacoat",
+    "price": 90.33,
+    "style": "Casual",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "23",
+    "name": "Swim Shorts",
+    "price": 76.78,
+    "style": "Streetwear",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "24",
+    "name": "Puffer Vest",
+    "price": 82.64,
+    "style": "Streetwear",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "25",
+    "name": "Athletic Shorts",
+    "price": 57.17,
+    "style": "Relaxed",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "26",
+    "name": "Crew Neck Tee",
+    "price": 31.94,
+    "style": "Streetwear",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "27",
+    "name": "Jogger Pants",
+    "price": 41.51,
+    "style": "Casual",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "28",
+    "name": "Turtleneck",
+    "price": 70.15,
+    "style": "Streetwear",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "29",
+    "name": "Canvas Jacket",
+    "price": 72.63,
+    "style": "Urban",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "30",
+    "name": "Varsity Jacket",
+    "price": 35.68,
+    "style": "Classic",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "31",
+    "name": "Sleeveless Tee",
+    "price": 41.17,
+    "style": "Formal",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "32",
+    "name": "Plaid Shirt",
+    "price": 21.24,
+    "style": "Sporty",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "33",
+    "name": "Performance Tee",
+    "price": 34.3,
+    "style": "Formal",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "34",
+    "name": "Thermal Shirt",
+    "price": 115.25,
+    "style": "Sporty",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "35",
+    "name": "Anorak",
+    "price": 122.26,
+    "style": "Streetwear",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "36",
+    "name": "Rugby Shirt",
+    "price": 120.39,
+    "style": "Casual",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "37",
+    "name": "Rain Jacket",
+    "price": 46.07,
+    "style": "Formal",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "38",
+    "name": "Dress Shirt",
+    "price": 106.7,
+    "style": "Urban",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "39",
+    "name": "Cuffed Pants",
+    "price": 76.35,
+    "style": "Streetwear",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "40",
+    "name": "Stretch Jeans",
+    "price": 86.75,
+    "style": "Sporty",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "41",
+    "name": "Wool Scarf",
+    "price": 22.6,
+    "style": "Casual",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "42",
+    "name": "Knit Sweater",
+    "price": 86.09,
+    "style": "Sporty",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "43",
+    "name": "Summer Shorts",
+    "price": 121.16,
+    "style": "Formal",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "44",
+    "name": "Tank Top",
+    "price": 29.81,
+    "style": "Casual",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "45",
+    "name": "Biker Jacket",
+    "price": 85.33,
+    "style": "Streetwear",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "46",
+    "name": "Oxford Shirt",
+    "price": 32.18,
+    "style": "Streetwear",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "47",
+    "name": "Sports Jacket",
+    "price": 80.32,
+    "style": "Formal",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "48",
+    "name": "Long Sleeve Tee",
+    "price": 66.85,
+    "style": "Sporty",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "49",
+    "name": "Lounge Pants",
+    "price": 42.35,
+    "style": "Relaxed",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  },
+  {
+    "id": "50",
+    "name": "Double-Breasted Coat",
+    "price": 91.52,
+    "style": "Formal",
+    "delivery": "Available for same day delivery",
+    "image": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3830/100/4/966807370/966807370_1_2_720x928.webp?w=750&q=75"
+  }
+]
