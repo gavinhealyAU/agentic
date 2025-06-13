@@ -14,10 +14,18 @@
 
 <!-- Chat container that slides in -->
 <div id="chatContainer">
+  <div class="chat-header">
+    <img src="/paypal.png" alt="PayPal" class="paypal-logo" />
+  </div>
   <div id="chatLog"></div>
   <div class="input-container">
-    <form id="chatForm">
-      <input type="text" id="chatInput" placeholder="Type a message…" autocomplete="off" />
+    <form id="chatForm" autocomplete="off">
+      <input type="text" id="chatInput" placeholder="Type your message…" autocomplete="off" />
+      <button id="sendButton" type="submit" aria-label="Send">
+        <svg width="28" height="28" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M3 21L21 12L3 3V10L17 12L3 14V21Z" fill="currentColor"/>
+        </svg>
+      </button>
     </form>
   </div>
 </div>

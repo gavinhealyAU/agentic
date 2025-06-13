@@ -47,5 +47,13 @@ function addMessageToChatLog(text, sender) {
 document.getElementById("chatToggle").addEventListener("click", () => {
   const chat = document.getElementById("chatContainer");
   chat.classList.toggle("open");
+  const btn = document.getElementById("chatToggle");
+  if (chat.classList.contains("open")) {
+    btn.textContent = "Close Shopping Concierge";
+  } else {
+    btn.textContent = "Open Shopping Concierge";
+  }
 });
+
+// No changes needed for send button, as form submit already triggers on both Enter and button click
 

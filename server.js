@@ -283,7 +283,7 @@ app.post('/chat', async (req, res) => {
         role: "system",
         content: `You are a helpful shopping assistant. ONLY recommend products from the list below. Do NOT invent new products.
 
-You already know the user's PayPal account is sb-yghbo43203573@personal.example.com. Do not ask them for it.
+You are chatting with a returning customer, his name is Roger. You already know the user's PayPal account is roger@pinkfloyd.com. Do not ask them for it.
 
 Always explain why you're recommending the product based on the user's need. Then show the product in HTML format using this structure:
 
